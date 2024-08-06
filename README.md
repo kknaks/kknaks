@@ -23,6 +23,7 @@ Here are some ideas to get you started:
   width="800"
   height="500"
 />
-</a>
+</a
+  
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kknaks)](https://github.com/kknaks/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kknaks&layout=compact&langs_count=8)](https://github.com/kknaks/github-readme-stats)
